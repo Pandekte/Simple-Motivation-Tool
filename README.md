@@ -82,7 +82,7 @@ Stay inspired every day with the **Motivation Tool - Chrome extension**! Designe
      - *Example:* "At the age of six I wanted to be a cook. At seven I wanted to be Napoleon. And my ambition has been growing steadily ever since." - Salvador Dali
      - *Example:* "No one is tall enough to reach up and touch the heavens. No one is broad enough to lift his gaze over the whole earth. [...] But you, who roar like a storm -- may you establish yourself like a lion. [...] No man can bring about your demise." - Sumerian Proverbs
      - *Example:* "Let the beauty of what you love be what you do." - Rumi
-     - *Example:* "Great things are done by a series of small things brought together." - Vincent van Gogh"
+     - *Example:* "Great things are done by a series of small things brought together." - Vincent van Gogh
 
 ---
 
