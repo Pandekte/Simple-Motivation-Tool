@@ -1,6 +1,6 @@
 # Motivation Tool with Daily Quotes & Age Counter
 
-![Chrome Web Store](https://chromewebstore.google.com/detail/motivation-tool-with-quot/omcalcehddblccgmlmjdjapmahcibojj)
+[Chrome Web Store](https://chromewebstore.google.com/detail/motivation-tool-with-quot/omcalcehddblccgmlmjdjapmahcibojj)
 
 Stay inspired every day with the **Motivation Tool - Chrome extension**! Designed to seamlessly integrate into your browsing experience, this powerful and user-friendly tool delivers daily motivational quotes right to your browser. Simply click the extension icon or let the quotes appear automatically at your preferred intervals to maintain motivation throughout your day.
 
