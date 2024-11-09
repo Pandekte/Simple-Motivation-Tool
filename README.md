@@ -13,8 +13,8 @@ Stay inspired every day with the **Motivation Tool - Chrome extension**! Designe
 - [🚀 What’s New](#-whats-new)
 - [🔮 Coming Soon](#-coming-soon)
 - [💻 Tech Stack](#-tech-stack)
-- [📂 Project Structure](#-project-structure)
-- [🙌 Contact & Contributing](#-contact-&-contributing)
+- [📂 Project Structure](#-project-structure-gist)
+- [🙌 Contact & Contributing](#-contact--contributing)
 
 
 ---
